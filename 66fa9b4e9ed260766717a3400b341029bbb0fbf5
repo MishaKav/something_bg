@@ -1,0 +1,23 @@
+RELEASE_NOTES.md
+  22bdd30055b529a5 9-12,48,375,384,423,438
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "66fa9b4e9ed260766717a3400b341029bbb0fbf5",
+  "prompts": {
+    "22bdd30055b529a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b94268f-bde4-4dbf-9aac-197c5ced1404",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Misha Kav <misha.kav@gmail.com>",
+      "messages": [],
+      "total_additions": 453,
+      "total_deletions": 467,
+      "accepted_lines": 427,
+      "overriden_lines": 0
+    }
+  }
+}
