@@ -1,0 +1,23 @@
+app-linux/src/app.rs
+  22bdd30055b529a5 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "5dc57f20ac0cab031d37c24cddbcdaf8660c498d",
+  "prompts": {
+    "22bdd30055b529a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b94268f-bde4-4dbf-9aac-197c5ced1404",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Misha Kav <misha.kav@gmail.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 0,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
