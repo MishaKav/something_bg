@@ -1,0 +1,57 @@
+app-macos/src/main.rs
+  22bdd30055b529a5 58-60
+app-linux/src/menu.rs
+  22bdd30055b529a5 11,15,25-27,41,61-97,105,143,171,175,181-182,211-213,219-221,229,233
+app-macos/src/menu.rs
+  22bdd30055b529a5 17,94-103,151-167,204-222,415-448,567-584
+Cargo.toml
+  22bdd30055b529a5 6
+core/Cargo.toml
+  22bdd30055b529a5 3
+app-windows/src/main.rs
+  22bdd30055b529a5 128-132,142-144,196-211
+README.md
+  22bdd30055b529a5 22-23,106-108,150-162,165,182-186,192,197-235
+app-windows/src/menu.rs
+  22bdd30055b529a5 10,14,24-26,40,60-96,104,142,170,174,180-181,208-210,216-218,226,230
+RELEASE_NOTES.md
+  22bdd30055b529a5 3-27
+AGENTS.md
+  22bdd30055b529a5 34-35,44-50
+app-linux/src/app.rs
+  22bdd30055b529a5 4,15,47-103,132
+app-linux/src/main.rs
+  22bdd30055b529a5 140-144,156-158,210-222
+app-macos/src/app.rs
+  22bdd30055b529a5 8-9,11,15,32,66-127,155,193-273
+app-windows/src/app.rs
+  22bdd30055b529a5 4,14,44-100,120
+core/src/lib.rs
+  22bdd30055b529a5 1
+core/src/scheduler.rs
+  22bdd30055b529a5 564-565
+core/src/config.rs
+  22bdd30055b529a5 4,8,17-18,21,23-24,57-72,77-78,80-83,111-113,130-131,136,138-139,185-194,207-214,216-220,237,239-240,322,324-325,330-346,348-416
+core/src/command.rs
+  22bdd30055b529a5 1-150,152-329
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "5cd671313b3526ddc789a1c7b9b6b2e46eff7084",
+  "prompts": {
+    "22bdd30055b529a5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3b94268f-bde4-4dbf-9aac-197c5ced1404",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Misha Kav <misha.kav@gmail.com>",
+      "messages": [],
+      "total_additions": 1393,
+      "total_deletions": 308,
+      "accepted_lines": 1124,
+      "overriden_lines": 2
+    }
+  }
+}
